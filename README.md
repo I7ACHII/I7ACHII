@@ -1,6 +1,12 @@
 # Hi there, I'm Pulkit Mittal! 👋
 
-I'm a passionate backend developer specializing in Java SpringBoot. My journey involves crafting efficient and robust backend solutions using a variety of technologies. I'm well-versed in Java, SQL, and have dabbled in HTML, CSS, JavaScript, and Bootstrap.
+I'm Pulkit Mittal, a passionate backend developer immersed in the world of Java SpringBoot. 💻 My code journey includes crafting robust solutions using Java, SQL, and exploring frameworks like Maven, SpringBoot, Hibernate, and JPA. 🌐
+
+I'm well-acquainted with REST APIs, H2 databases, and MySQL Workbench, ensuring seamless data management. 🛠️ Tools like Postman, VS Code, IntelliJ, and Swagger are my trusty companions in the coding realm.
+
+Beyond the backend, I've dipped my toes into the world of AWS deployment, navigating the cloud with the curiosity of a developer explorer. ☁️
+
+And yes, I bring a sprinkle of front-end flair too, with basics in HTML, CSS, JavaScript, and a dash of Bootstrap for that sleek user interface. 🌈
 
 ## Technologies & Tools
 
