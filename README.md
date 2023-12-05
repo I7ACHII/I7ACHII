@@ -1,6 +1,6 @@
 # Hi there, I'm Pulkit Mittal! 👋
 
-I'm Pulkit Mittal, a passionate backend developer immersed in the world of Java SpringBoot. 💻 My code journey includes crafting robust solutions using Java, SQL, and exploring frameworks like Maven, SpringBoot, Hibernate, and JPA. 🌐
+I'm a passionate backend developer immersed in the world of Java SpringBoot. 💻 My code journey includes crafting robust solutions using Java, SQL, and exploring frameworks like Maven, SpringBoot, Hibernate, and JPA. 🌐
 
 I'm well-acquainted with REST APIs, H2 databases, and MySQL Workbench, ensuring seamless data management. 🛠️ Tools like Postman, VS Code, IntelliJ, and Swagger are my trusty companions in the coding realm.
 
